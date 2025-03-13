@@ -12,9 +12,6 @@ Dive into the data job market! This project focuses on data analyst roles, explo
 
 
 
-🔍 SQL queries? Check them out here: project\_sql folder
-
-
 
 ## Background
 
